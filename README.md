@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matthew Dong!
 - 👀 I’m interested in machine learning, AI, and data science.
-- 🌱 I’m currently studying for a bachelor's degree in computer at NYU CAS
+- 🌱 I’m currently studying for a bachelor's degree in computer at NYU CAS.
 - 💞️ I’m looking to collaborate on any projects!
 - 📫 Reach me at matthew.dong@nyu.edu.
 
