@@ -4,6 +4,8 @@
 - 💞️ Let me know if you want to collaborate on any projects!
 - 📫 Reach me at matthew.dong@nyu.edu.
 
+[![Matthew's GitHub Stats!]([https://github-readme-stats.vercel.app/api?username=Matt-J-Dong](https://github-readme-stats.vercel.app/api?username=Matt-J-Dong&rank_icon=github&include_all_commits=true&theme=cobalt))](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 Matt-J-Dong/Matt-J-Dong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
