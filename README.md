@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Matthew Dong!
-- 👀 I’m interested in machine learning, and data science, are looking for work in those fields.
+- 👀 I’m interested in machine learning, and data science, and am looking for work in those fields.
 - 🌱 I’m studying for a masters in Computer Science at the Courant Institute of Mathematical Sciences.
 - 💞️ Let me know if you want to collaborate on any projects!
 - 📫 Reach me at <a href="mailto:matthew.dong@nyu.edu" target="_blank"><img src="https://img.shields.io/badge/Email-matthew.dong@nyu.edu-yellow"></a>.
