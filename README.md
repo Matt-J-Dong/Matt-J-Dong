@@ -25,10 +25,10 @@
 
 <p align="center">
   <a href="https://github.com/Matt-J-Dong/VentureAI">
-    <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Matt-J-Dong&repo=VentureAI"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Matt-J-Dong&repo=VentureAI"/>
   </a>
   <a href="https://github.com/Matt-J-Dong/MulticoreChess">
-    <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Matt-J-Dong&repo=MulticoreChess"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Matt-J-Dong&repo=MulticoreChess"/>
   </a>
 </p>
 
