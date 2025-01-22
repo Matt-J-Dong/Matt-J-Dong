@@ -16,10 +16,10 @@
 
 <p align="center">
   <a href="https://github.com/Matt-J-Dong?tab=repositories">
-    <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=Matt-J-Dong&rank_icon=github&include_all_commits=true&show=prs_merged"/>
+    <img height=220 align="center" src="https://github-readme-stats.vercel.app/api?username=Matt-J-Dong&rank_icon=github&include_all_commits=true&show=prs_merged"/>
   </a>
   <a href="https://github.com/Matt-J-Dong?tab=repositories">
-    <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matt-J-Dong&layout=donut&card_width=330"/>
+    <img height=220 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matt-J-Dong&layout=donut&card_width=330"/>
   </a>
 </p>
 
