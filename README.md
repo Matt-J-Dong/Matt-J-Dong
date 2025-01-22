@@ -20,8 +20,8 @@
   <a href="https://github.com/Matt-J-Dong/VentureAI">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Matt-J-Dong&repo=VentureAI"/>
   </a>
-  <a href="https://github.com/Matt-J-Dong/final-project-quizverse">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Matt-J-Dong&repo=final-project-quizverse"/>
+  <a href="https://github.com/Matt-J-Dong/MulticoreChess">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Matt-J-Dong&repo=MulticoreChess"/>
   </a>
 </p>
 
