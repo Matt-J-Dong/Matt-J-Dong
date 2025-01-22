@@ -1,3 +1,5 @@
+![Matt-J-Dong](./Matt-J-Dong.gif)
+
 - 👋 Hi, I’m Matthew Dong!
 - 👀 I’m interested in machine learning, and data science, and am looking for work in those fields.
 - 🌱 I’m studying for a masters in Computer Science at the Courant Institute of Mathematical Sciences.
