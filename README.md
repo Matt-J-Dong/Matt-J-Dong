@@ -2,7 +2,7 @@
   <img src="https://github.com/Matt-J-Dong/Matt-J-Dong/blob/main/Matt-J-Dong.gif" alt="Hi Everybody!">
 </p>
 
-<h2 align="center">Greetings! My name is Matthew Dong, and welcome to my GitHub!</h2>
+<h2 align="center">Greetings! My name is Matthew Dong, and welcome to my GitHub! 👋</h2>
 
 <a href="https://linkedin.com/in/Matt-J-Dong" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Matt--J--Dong-blue"></a>
 
