@@ -16,19 +16,19 @@
 
 <p align="center">
   <a href="https://github.com/Matt-J-Dong?tab=repositories">
-    <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=Matt-J-Dong&rank_icon=github&include_all_commits=true&show=prs_merged"/>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Matt-J-Dong&rank_icon=github&include_all_commits=true&show=prs_merged"/>
   </a>
   <a href="https://github.com/Matt-J-Dong?tab=repositories">
-    <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matt-J-Dong&layout=donut&card_width=330"/>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matt-J-Dong&layout=donut&card_width=330"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Matt-J-Dong/VentureAI">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Matt-J-Dong&repo=VentureAI"/>
+    <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Matt-J-Dong&repo=VentureAI"/>
   </a>
   <a href="https://github.com/Matt-J-Dong/MulticoreChess">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Matt-J-Dong&repo=MulticoreChess"/>
+    <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Matt-J-Dong&repo=MulticoreChess"/>
   </a>
 </p>
 
